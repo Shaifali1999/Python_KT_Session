@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 1.0
+Summary: The demo package
+Author: Muthukumar Subramanian
+Author-email: muthukumar@example.com
+License: MIT
